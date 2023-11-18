@@ -1,0 +1,3 @@
+name: strapi-pulumi-gcp
+runtime: go
+description: Deployment of Strapi to GCP using Pulumi
